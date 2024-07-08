@@ -1,0 +1,11 @@
+Name of Quantlet: em-conv
+
+Published in: quantlet
+
+Description: Performs a simulation for the convergence of the EM algorithm
+
+Keywords: time series, CPI, EM algorithm, simulatuion
+
+Author: Petre Caraiani
+
+Submitted:  Wed, June 19 2024 by Petre Caraiani
